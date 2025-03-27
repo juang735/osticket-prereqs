@@ -55,7 +55,7 @@ Using Remote Desktop Connection (RDC) on Microsoft Azure is a way to connect to 
 The Command Prompt (also called CMD) is a tool that lets you type in commands to control your computer. It's like talking to your computer in a special language where you tell it what to do, and it follows your instructions. I can create new files or folders directly from Command Prompt, and get information about your computer, like what’s installed or how much space is left.
 
 <p>
-<img src="https://i.imgur.com/MYkqJ9z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mMqIYJN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
