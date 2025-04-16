@@ -62,7 +62,7 @@ The Command Prompt (also called CMD) is a tool that lets you type in commands to
 <img src="https://i.imgur.com/mMqIYJN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+ is lab teach u how  ticket are made and who can make the ticket as well like manager, stuff, etc.
 <p>
 <img src="https://i.imgur.com/eZM1frG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
