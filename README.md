@@ -58,7 +58,3 @@ The Command Prompt (also called CMD) is a tool that lets you type in commands to
 </p>
 <p>
 
-<p>
-<img src="["](https://i.imgur.com/iDNKeB6.png) width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
