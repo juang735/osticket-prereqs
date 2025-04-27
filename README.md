@@ -56,11 +56,12 @@ The Command Prompt is a tool in Windows that lets you type text commands to cont
 <img src="https://i.imgur.com/mMqIYJN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
- is lab teach u how  ticket are made and who can make the ticket as well like manager, stuff, etc.
+ In most organizations, manager, employees or help desk are responsible for creating tickets when they experience an issue or need support. This is usually done through a help desk system or IT service portal. Once the ticket is submitted, the IT or support team takes over to review, assign, and resolve the issue. Creating a ticket helps track problems and ensures they are handled in an organized way.
+ 
 <p>
 <img src="https://i.imgur.com/eZM1frG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 </p>
 </p>
-this where the customer say the interner is slow but technically computer is slow.  
+ When a customer calls saying their computer or internet is slow, first ask questions to understand the issue—like when it started, if it happens with all websites or programs, and if others are affected. Then, guide them through basic troubleshooting steps, such as restarting the computer or router. You can also check for background programs, system updates, or network issues. If the problem isn’t resolved, you may need to escalate the issue or create a support ticket for further investigation. 
 
