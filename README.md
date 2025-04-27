@@ -5,9 +5,7 @@
 <h1>osTicket - Prerequisites and Installation</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
-
 <h2>Video Demonstration</h2>
-
 
 <h2>Environments and Technologies Used</h2>
 
@@ -39,13 +37,16 @@ Run virtual computers: I can set up virtual machines in the cloud and access the
 <img src="https://i.imgur.com/A6g6Gvo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Using Remote Desktop Connection (RDC) on Microsoft Azure is a way to connect to a virtual computer (a computer that's running on Azure) from your own device, like a laptop or a tablet. It's like you’re using a computer that’s far away, but it feels like you’re right there using it! Here's how you can do it: Pick an OS (Windows or Linux). For a Remote Desktop connection, you'll probably choose a Windows Server or Windows 10 machine. 
+Using Remote Desktop Connection (RDC) on Microsoft Azure allows you to connect to a virtual computer—one that's running in the cloud—from your own device, such as a laptop or tablet. It feels just like you're sitting in front of that remote machine, even though it’s located far away.
+To get started, you'll need to choose an operating system (OS), typically Windows Server or Windows 10, since these are compatible with Remote Desktop connections.
 
 <p>
 <img src="https://i.imgur.com/1idPocS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The Command Prompt (also called CMD) is a tool that lets you type in commands to control your computer. It's like talking to your computer in a special language where you tell it what to do, and it follows your instructions. I can create new files or folders directly from Command Prompt, and get information about your computer, like what’s installed or how much space is left.
+Using Remote Desktop Connection (RDC) on Microsoft Azure lets you access a virtual computer running in the cloud from your own device—like a laptop or tablet. Even though the virtual machine is hosted remotely, it feels as if you're using it right in front of you.
+
+To begin, you’ll need to select an operating system, usually Windows Server or Windows 10, since both support Remote Desktop access.
 
 <p>
 <img src="https://i.imgur.com/ZXQRB5h.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
