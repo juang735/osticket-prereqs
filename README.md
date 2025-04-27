@@ -21,22 +21,16 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-
 <h2>Installation Steps</h2>
 
 <p>
 <img src="https://i.imgur.com/nB1qTiC.png/" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In my first lab i created a microsoft azure account where i can create Store stuff: You can upload pictures, videos, or important documents to a special place in the cloud where they’re safe.
-
-Building websites or apps: You can make your own websites or apps and host them on Azure, so people can visit them from anywhere.
-
-Running virtual computers: You can use Azure to create virtual computers in the cloud that you can access from your own device (like a laptop or phone) without needing a powerful computer. 
+In my first lab, I created a Microsoft Azure account, which allows me to do a variety of powerful things in the cloud:
+Store important files: I can upload pictures, videos, and documents to a secure place in the cloud, keeping them safe and accessible from anywhere.
+Build websites or apps: Azure lets me create and host my own websites or applications, so they can be accessed by anyone with an internet connection.
+Run virtual computers: I can set up virtual machines in the cloud and access them from my own device—like a laptop or phone—without needing a high-powered computer.
 </p>
 <br />
 
