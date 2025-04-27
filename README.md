@@ -44,15 +44,14 @@ To get started, you'll need to choose an operating system (OS), typically Window
 <img src="https://i.imgur.com/1idPocS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Using Remote Desktop Connection (RDC) on Microsoft Azure lets you access a virtual computer running in the cloud from your own device—like a laptop or tablet. Even though the virtual machine is hosted remotely, it feels as if you're using it right in front of you.
-
-To begin, you’ll need to select an operating system, usually Windows Server or Windows 10, since both support Remote Desktop access.
+The Command Prompt is a tool in Windows that lets you type text commands to control your computer. You can use it to navigate folders, create or delete files, run programs, and check system information. It’s especially useful for troubleshooting or performing tasks more quickly than using the regular interface. Advanced users can also write scripts to automate repetitive tasks.
 
 <p>
 <img src="https://i.imgur.com/ZXQRB5h.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
- this where the customer losses the file so we can google or ask for help from a coworker. 
+ If you accidentally delete a document or email, the first thing to do is check the Recycle Bin or Deleted Items folder—many files or emails can be easily restored from there. If it’s not there, some cloud services like Microsoft OneDrive or Outlook have a second-stage recycle bin or Recover Deleted Items option. You can also try checking your backups if you have them set up. If none of these work, you might contact your IT department or service provider for further recovery options. Acting quickly gives you the best chance of getting the file or email back.
+
 <p>
 <img src="https://i.imgur.com/mMqIYJN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
